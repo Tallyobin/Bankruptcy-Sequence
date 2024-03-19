@@ -30,6 +30,10 @@ https://www.nexusmods.com/newvegas/mods/68323
 https://www.nexusmods.com/newvegas/mods/51777
 https://www.nexusmods.com/newvegas/mods/46628
 https://www.nexusmods.com/newvegas/mods/67248
+https://www.nexusmods.com/newvegas/mods/42967
+https://www.nexusmods.com/newvegas/mods/46080
+
+https://www.nma-fallout.com/resources/fallout-fixt-full-all-fixes-and-mods.8/
 
 https://www.nexusmods.com/newvegas/users/2443503?tab=user+files&BH=0
 https://www.nexusmods.com/newvegas/mods/?tags_yes[]=1066&BH=0
